@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "agree": "I agree to",
+    "createAccount": "Create account",
+    "createNewAccount": "Create New Account",
+    "email": "Email",
+    "login": "Login",
+    "password": "Password",
+    "recover_password": "Recover password",
+    "sign_up": "Sign Up",
+    "keep_logged_in": "Keep me logged in",
+    "termsOfUse": "Terms of Use.",
+    "reset_password": "Reset password"
+  }
+}
